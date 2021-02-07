@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
 -->
+
+>![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh-deka&theme=midnight-purple&show_icons=true) 
