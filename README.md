@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about DevOps and Open Source Community
 - 📫 How to reach me: Well you can mail me 
-- ⚡ Fun fact: I love Anime!
+- ⚡ Fun fact: I love watching Anime!
 
 >Here are my GitHub stats:
 >
