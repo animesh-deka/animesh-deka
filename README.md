@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 >Here are some of the programming languages that I use:
 >
 >>
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-deka&theme=midnight-purple&layout=compact)](https://github.com/ansh8tu/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-deka&theme=midnight-purple&layout=compact)](https://github.com/animesh-deka/github-readme-stats)
 
 >Streaks, here we go, 
 >
-><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-deka&" /></p>
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-deka&theme=midnight-purple" /></p>
