@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 >
 >>
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-deka&theme=midnight-purple&layout=compact)](https://github.com/ansh8tu/github-readme-stats)
+
+>Streaks, here we go, 
+>
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-deka&" /></p>
