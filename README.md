@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 >Here are some of the programming languages that I use:
 >
 >>
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-deka&theme=midnight-purple&](https://github.com/animesh-deka/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-deka&theme=midnight-purple&layout=compact)](https://github.com/animesh-deka/github-readme-stats)
 
 >Streaks, here we go, 
 >
