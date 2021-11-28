@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about DevOps and Open Source Community
-- 📫 How to reach me: https://animesh-deka.github.io/basic-html-css/ 
-- ⚡ Fun fact: I love watching Anime!
+- 📫 How to reach me: https://animesh-deka.github.io/portfolio/ 
 
 >Here are my GitHub stats:
 >
